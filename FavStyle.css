@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+body
+{
+	background:#3399ff;
+	
+	font: 125% Georgia, Times New Roman, Times, serif;
+}
+
+header {
+	font: 110% Georgia, Times New Roman, Times, serif;
+	border-bottom: 5px solid black;
+	}
+
+
+aside#Text {
+	font: 170% Georgia, Times, Serif;
+	float: left;
+	width: 625px;
+	margin-bottom: 200px;
+	border-right: 5px solid black;
+
+}
+
+aside#Under-Text{
+	font: 170% Georgia, Times, Serif;
+	float: left;
+	width: 300px;
+	margin-bottom: 100px;
+}
+
+aside#Under{
+	font: 150% Georgia, Times, Serif;
+	float: bottom;
+	width: 625px;
+	margin-bottom: 100px;
+	border-right: 5px solid black;
+	border-bottom: 5px solid black
+}
+
+aside#info{
+	font: 150% Georgia, Times, Serif;
+	float: right;
+	width: 400px;
+	margin-bottom: 100px;
+}
+
+aside#Mov{
+	font: 250% Georgia, Times, Serif;
+	float: right;
+	width: 1000px;
+}
