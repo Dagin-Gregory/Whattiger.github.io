@@ -85,3 +85,6 @@ footer#pageFooter p {
 	margin-bottom: 10px;
 	color: black;
 }
+aside#hobbies {
+border-Left: 1px solid black;	
+}
